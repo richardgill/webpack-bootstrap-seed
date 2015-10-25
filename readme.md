@@ -1,6 +1,6 @@
 #Webpack seed
 
-This project has webpack with babel and scss.
+This project has webpack with babel and scss. Bootstrap is imported and variables can be overridden.
 
 ## Commands
 
