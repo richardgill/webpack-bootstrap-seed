@@ -1,1 +1,6 @@
-bundle.js
+*.eot
+*.js
+*.svg
+*.ttf
+*.woff
+*.woff2
